@@ -1,5 +1,5 @@
 # Operation-Request-URLs
-This Repository documents all Operation Request URLs for the EpicResearch Repository so people don't have to do it themselves. EpicResearch Repository by MixV2 [here](https://github.com/MixV2/EpicResearch)
+This Repository documents all Operation Request URLs for the EpicResearch Repository so people don't have to do it themselves. EpicResearch Repository by MixV2 [here](https://github.com/MixV2/EpicResearch). If the 'wex' operations don't work, its because of 'client' in the URL.
 -
 ## Some operations have multiple Compatible profiles and Supported MCPs, i'll list them for each operation as well as make the respective links for each profile and MCPs.
 -
