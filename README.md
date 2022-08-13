@@ -20,65 +20,65 @@ This Repository consists of all the Operation Request URLs for the EpicResearch 
 ###### *Supported MCPs: fortnite*
 -
 ##### *AssignGadgetToLoadout* - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/AssignGadgetToLoadout?profileId=campaign&rvn=-1**
-##### *Compatible Profiles: campaign*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: campaign*
+###### *Supported MCPs: fortnite*
 -
 ##### *AssignHeroToLoadout* - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/AssignHeroToLoadout?profileId=campaign&rvn=-1**
-##### *Compatible Profiles: campaign*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: campaign*
+###### *Supported MCPs: fortnite*
 -
 ##### *AssignTeamPerkToLoadout* - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/AssignTeamPerkToLoadout?profileId=campaign&rvn=-1**
-##### *Compatible Profiles: campaign*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: campaign*
+###### *Supported MCPs: fortnite*
 -
 ##### *AssignWorkerToSquad* - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/AssignWorkerToSquad?profileId=campaign&rvn=-1**
-##### *Compatible Profiles: campaign*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: campaign*
+###### *Supported MCPs: fortnite*
 -
 ##### *CancelOrResumeSubscription* - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/CancelOrResumeSubscription?profileId=common_core&rvn=-1**
-##### *Compatible Profiles: common_core*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: common_core*
+###### *Supported MCPs: fortnite*
 -
 ##### *ClaimCollectedResources* - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/ClaimCollectedResources?profileId=campaign&rvn=-1**
-##### *Compatible Profiles: campaign*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: campaign*
+###### *Supported MCPs: fortnite*
 -
 ##### ** - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/?profileId=campaign&rvn=-1**
-##### *Compatible Profiles: campaign*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: campaign*
+###### *Supported MCPs: fortnite*
 -
 ##### ** - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/?profileId=campaign&rvn=-1**
-##### *Compatible Profiles: campaign*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: campaign*
+###### *Supported MCPs: fortnite*
 -
 ##### ** - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/?profileId=campaign&rvn=-1**
-##### *Compatible Profiles: campaign*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: campaign*
+###### *Supported MCPs: fortnite*
 -
 ##### ** - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/?profileId=campaign&rvn=-1**
-##### *Compatible Profiles: campaign*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: campaign*
+###### *Supported MCPs: fortnite*
 -
 ##### ** - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/?profileId=campaign&rvn=-1**
-##### *Compatible Profiles: campaign*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: campaign*
+###### *Supported MCPs: fortnite*
 -
 ##### ** - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/?profileId=campaign&rvn=-1**
-##### *Compatible Profiles: campaign*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: campaign*
+###### *Supported MCPs: fortnite*
 -
 ##### ** - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/?profileId=campaign&rvn=-1**
-##### *Compatible Profiles: campaign*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: campaign*
+###### *Supported MCPs: fortnite*
 -
 ##### ** - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/?profileId=campaign&rvn=-1**
-##### *Compatible Profiles: campaign*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: campaign*
+###### *Supported MCPs: fortnite*
 -
 ##### ** - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/?profileId=campaign&rvn=-1**
-##### *Compatible Profiles: campaign*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: campaign*
+###### *Supported MCPs: fortnite*
 -
 ##### ** - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/?profileId=campaign&rvn=-1**
-##### *Compatible Profiles: campaign*
-##### *Supported MCPs: fortnite*
+###### *Compatible Profiles: campaign*
+###### *Supported MCPs: fortnite*
