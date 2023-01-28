@@ -240,7 +240,7 @@ This Repository documents all Operation Request URLs for the EpicResearch Reposi
 -
 ##### *SetCosmeticLockerSlot* - 
 ###### *Profile: athena, MCP: fortnite* - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/SetCosmeticLockerSlot?profileId=athena&rvn=-1**
-###### *Profile campaign, MCP: fortnite* - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/SetCosmeticLockerSlot?profileId=athena&rvn=-1**
+###### *Profile campaign, MCP: fortnite* - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/SetCosmeticLockerSlot?profileId=campaign&rvn=-1**
 ###### *Compatible Profiles: athena, campaign*
 ###### *Supported MCPs: fortnite*
 -
