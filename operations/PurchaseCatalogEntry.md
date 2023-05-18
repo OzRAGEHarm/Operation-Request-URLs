@@ -3,6 +3,7 @@ Purchases an item from the item shop.
 
 ## URL(s)
 *Profile: common_core, MCP: fortnite* - **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/PurchaseCatalogEntry?profileId=common_core&rvn=-1**
+
 *Profile: common_core, MCP: wex* - **https://wex-public-service-prod11.ol.epicgames.com/wex/api/game/v2/profile/{accountID}/client/PurchaseCatalogEntry?profileId=common_core&rvn=-1** 
 
 ## Attributes
