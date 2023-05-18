@@ -1,7 +1,7 @@
 # CancelOrResumeSubscription
 Cancels/resumes a subscription (e.g. Fortnite Crew).
 
-## URL
+## URL(s)
 **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/CancelOrResumeSubscription?profileId=common_core&rvn=-1**
 
 ## Attributes
