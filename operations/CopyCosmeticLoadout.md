@@ -2,7 +2,7 @@
 Copies or saves a cosmetic loadout.
 
 ## URL(s)
-**https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/?profileId=athena&rvn=-1**
+**https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/CopyCosmeticLoadout?profileId=athena&rvn=-1**
 
 ## Attributes
 Compatible Profiles: `athena`
