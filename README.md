@@ -310,4 +310,4 @@ This Repository documents all Operation Request URLs for the EpicResearch Reposi
 -
 ##### *VisitHideout* - **https://ocean-public-service-prod11.ol.epicgames.com/ocean/api/game/v2/profile/{accountID}/client/?profileId=profile0&rvn=-1**
 ###### *Compatible Profiles: profile0*
-###### *Supported MCPs: ocean*
+###### *Supported MCPs: ocea*
