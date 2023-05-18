@@ -1,7 +1,7 @@
 # AbandonExpedition
 Abandons an expedition.
 
-## URL
+## URL(s)
 **https://fortnite-public-service-prod11.ol.epicgames.com/athena/api/game/v2/profile/{accountID}/client/AbandonExpedition?profileId=campaign&rvn=-1**
 
 ## Attributes
