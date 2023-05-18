@@ -1,7 +1,7 @@
 # ActivateConsumable
 Activate a consumable by ID.
 
-## URL
+## URL(s)
 **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/ActivateConsumable?profileId=campaign&rvn=-1**
 
 ## Attributes
