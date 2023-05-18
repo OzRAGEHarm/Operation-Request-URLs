@@ -1,7 +1,7 @@
 # AssignHeroToLoadout
 Assign a hero to a loadout by ID.
 
-## URL
+## URL(s)
 **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/AssignHeroToLoadout?profileId=campaign&rvn=-1**
 
 ## Attributes
