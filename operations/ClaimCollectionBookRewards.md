@@ -1,7 +1,7 @@
 # ClaimCollectionBookRewards
 Claims any outstanding rewards from a user's collection book.
 
-## URL
+## URL(s)
 **https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountID}/client/ClaimCollectionBookRewards?profileId=campaign&rvn=-1**
 
 ## Attributes
